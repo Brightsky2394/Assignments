@@ -1,0 +1,12 @@
+h1 {
+    font-family: sans-serif;
+    display: -moz-grid-group;
+    padding: oem;
+    margin: 0em;
+    color: rebeccapurple;
+}
+
+input {
+    margin: 10px;
+    padding: 0px;
+}
