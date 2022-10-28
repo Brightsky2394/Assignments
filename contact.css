@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px;
+    color: blue;
+}
+
+.contact1 {
+    background-color: orange;
+    width: 5px;
+    height: 5px;
+}
+
+#name,
+#email,
+button {
+    margin: 20px;
+    text align: center;
+}
+
+#mesg {
+    margin: 20px;
+}
