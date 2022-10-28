@@ -1,2 +1,1 @@
-Registration, Login, and Success page
-Portfolio page with home, service, project and contact navigation pages.
+Three column design with flexbox and Grid.
